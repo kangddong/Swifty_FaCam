@@ -42,7 +42,17 @@
 </details>
 
 - 채팅리스트
-- 애플프레임워크 리스트
+<details>
+  <summary> 애플프레임워크 리스트 </summary>
+    <img src=https://user-images.githubusercontent.com/50406861/175804205-ef60ffda-75fc-4ba3-973d-7155a45f9b5a.gif width=276 height=598>
+  
++ 내용: 애플프레임워크 리스트를 보여주는 프로젝트
++ 화면 구성: 애플프레임워크 리스트를 보여주는 화면
++ 기능 명세
+    1. 모델 이미지 데이터는 강의 프로젝트에서 참고하셔도될거같습니다.
+    2. 여러 디바이스에서도 새로 3줄이 나오도록 구현해주세요.
+    3. Apple Frameworks 타이틀 이미자와 동일하게 구현해주세요.
+</details>
 
 04.탭바가 있는 앱 구성해보기
 > TabBarController 이해하기
